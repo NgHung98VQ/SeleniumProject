@@ -1,4 +1,5 @@
 ﻿using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Firefox;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,11 +28,13 @@ namespace SeleniumProfile
         }
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            ChromeOptions option = new ChromeOptions();
-            option.AddArgument("");
-            ChromeDriver chromeDriver = new ChromeDriver(option);
-
+            /*FirefoxProfile firefoxProfile = new FirefoxProfile(@"C:\Users\Sharkily\AppData\Local\Temp\rust_mozprofile6NUFyK");
+            FirefoxOptions firefoxOptions = new FirefoxOptions();
+            FirefoxDriver firefoxDriver = new FirefoxDriver(firefoxOptions);*/
             
+            ChromeOptions chromeOptions = new ChromeOptions();
+            chromeOptions.AddArgument(@"user-data-dir=C:\Users\Sharkily\AppData\Local\Google\Chrome\User Data\Profile 1");
+            ChromeDriver driver = new ChromeDriver(chromeOptions);
         }
     }
 }
