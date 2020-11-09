@@ -25,14 +25,11 @@ namespace SeleniumTest
         {
             InitializeComponent();
         }
-        ChromeOptions chromeOptions = new ChromeOptions();
-        ChromeDriver drv;
+       
         private void Button_Click(object sender, RoutedEventArgs e)
         {
 
-            chromeOptions.AddArguments(@"user-data-dir=C:\Users\Sharkily\AppData\Local\Google\Chrome\User Data\Profile 1");
-            drv = new ChromeDriver(chromeOptions);
-           
+
         }
     }
 }
