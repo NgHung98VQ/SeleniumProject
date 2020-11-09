@@ -37,9 +37,9 @@ namespace SeleniumExcuteJaveScript
             tagssearch.Click();
             chromeDriver.Url = "https://www.thegioididong.com/dtdd/iphone-11-pro-max";
             chromeDriver.Navigate();
-            chromeDriver.ExecuteAsyncScript("var content = document.getElementsByClassName('fixbody')[0].children[0].innerHTML;alert(content);");
+            chromeDriver.ExecuteAsyncScript("var content = document.getElementsByClassName('scroll')[0].children[0].innerHTML;alert(content);");
             IJavaScriptExecutor js = chromeDriver as IJavaScriptExecutor;
-            var dataFromJS = (string)js.ExecuteScript("var content = document.getElementsByClassName('fixbody')[0].children[0].innerHTML;return content;");
+            var dataFromJS = (string)js.ExecuteScript("var content = document.getElementsByClassName('scroll')[0].children[0].innerHTML;return content;");
             MessageBox.Show(dataFromJS);
 
         }
