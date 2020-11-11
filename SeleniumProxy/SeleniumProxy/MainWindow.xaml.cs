@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -27,9 +28,10 @@ namespace SeleniumProxy
         {
             InitializeComponent();
         }
+
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            
+
             FirefoxProfile firefoxProfile = new FirefoxProfile();
             firefoxProfile.SetPreference("network./proxy.type", 1);
             firefoxProfile.SetPreference("Network.proxy.http", "36.89.183.253");
@@ -37,11 +39,12 @@ namespace SeleniumProxy
             firefoxProfile.SetPreference("network.proxy.ssl", "36.89.183.253");
             firefoxProfile.SetPreference("network.proxy.ssl_port", 33381);
             FirefoxOptions firefoxOptions = new FirefoxOptions();
-            firefoxOptions.AddArgument("network./proxy.type");
+            firefoxOptions.Profile = firefoxProfile;
             FirefoxDriver firefoxDriver = new FirefoxDriver(firefoxOptions);
-
-            firefoxDriver.Url = "https://whoer.net/"; 
+            firefoxDriver.Url = "https://whoer.net/";
             firefoxDriver.Navigate();
         }
+
     }
+       
 }
