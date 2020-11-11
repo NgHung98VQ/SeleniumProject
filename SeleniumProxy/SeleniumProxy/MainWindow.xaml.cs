@@ -40,6 +40,7 @@ namespace SeleniumProxy
             firefoxProfile.SetPreference("network.proxy.ssl_port", 33381);
             FirefoxOptions firefoxOptions = new FirefoxOptions();
             firefoxOptions.Profile = firefoxProfile;
+            // khoi tao mot web moi
             FirefoxDriver firefoxDriver = new FirefoxDriver(firefoxOptions);
             firefoxDriver.Url = "https://whoer.net/";
             firefoxDriver.Navigate();
