@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumWeather", "SeleniumWeather\SeleniumWeather.csproj", "{D1F13F58-FA7F-43B7-B692-B8C7994B40B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0112B79D-D30D-463C-A27C-0B94D71F2474}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F13F58-FA7F-43B7-B692-B8C7994B40B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F13F58-FA7F-43B7-B692-B8C7994B40B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F13F58-FA7F-43B7-B692-B8C7994B40B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F13F58-FA7F-43B7-B692-B8C7994B40B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C51EE3E-C1E4-430E-96C8-B3DDD9724244}
+	EndGlobalSection
+EndGlobal

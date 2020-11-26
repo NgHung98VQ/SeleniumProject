@@ -1,0 +1,5 @@
+D:\hoclaptrinhC\RestClient\RestClient\obj\Debug\RestClient.csprojAssemblyReference.cache
+D:\hoclaptrinhC\RestClient\RestClient\obj\Debug\MainWindow.g.cs
+D:\hoclaptrinhC\RestClient\RestClient\obj\Debug\App.g.cs
+D:\hoclaptrinhC\RestClient\RestClient\obj\Debug\RestClient_MarkupCompile.cache
+D:\hoclaptrinhC\RestClient\RestClient\obj\Debug\RestClient_MarkupCompile.lref

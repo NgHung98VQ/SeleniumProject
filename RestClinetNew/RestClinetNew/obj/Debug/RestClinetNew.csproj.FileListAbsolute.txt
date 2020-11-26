@@ -1,0 +1,15 @@
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\bin\Debug\RestClinetNew.exe.config
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\bin\Debug\RestClinetNew.exe
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\bin\Debug\RestClinetNew.pdb
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\obj\Debug\RestClinetNew.csprojAssemblyReference.cache
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\obj\Debug\MainWindow.g.cs
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\obj\Debug\App.g.cs
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\obj\Debug\RestClinetNew_MarkupCompile.cache
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\obj\Debug\RestClinetNew_MarkupCompile.lref
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\obj\Debug\MainWindow.baml
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\obj\Debug\RestClinetNew.g.resources
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\obj\Debug\RestClinetNew.Properties.Resources.resources
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\obj\Debug\RestClinetNew.csproj.GenerateResource.cache
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\obj\Debug\RestClinetNew.csproj.CoreCompileInputs.cache
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\obj\Debug\RestClinetNew.exe
+D:\hoclaptrinhC\RestClinetNew\RestClinetNew\obj\Debug\RestClinetNew.pdb

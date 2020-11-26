@@ -1,0 +1,15 @@
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\bin\Debug\SeleniumRestClient.exe.config
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\bin\Debug\SeleniumRestClient.exe
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\bin\Debug\SeleniumRestClient.pdb
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\obj\Debug\SeleniumRestClient.csprojAssemblyReference.cache
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\obj\Debug\MainWindow.g.cs
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\obj\Debug\App.g.cs
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\obj\Debug\SeleniumRestClient_MarkupCompile.cache
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\obj\Debug\SeleniumRestClient_MarkupCompile.lref
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\obj\Debug\MainWindow.baml
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\obj\Debug\SeleniumRestClient.g.resources
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\obj\Debug\SeleniumRestClient.Properties.Resources.resources
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\obj\Debug\SeleniumRestClient.csproj.GenerateResource.cache
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\obj\Debug\SeleniumRestClient.csproj.CoreCompileInputs.cache
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\obj\Debug\SeleniumRestClient.exe
+D:\hoclaptrinhC\SeleniumRestClient\SeleniumRestClient\obj\Debug\SeleniumRestClient.pdb

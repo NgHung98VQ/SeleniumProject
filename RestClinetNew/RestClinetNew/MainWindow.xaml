@@ -1,0 +1,17 @@
+﻿<Window x:Class="RestClinetNew.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RestClinetNew"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="425.714" Width="974.286">
+    <Grid>
+        <TextBox x:Name="txtRequestUrl" HorizontalAlignment="Left" Height="42" Margin="216,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="488"/>
+        <TextBox x:Name="txtResponse" HorizontalAlignment="Left" Height="244" Margin="216,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="683"/>
+        <Button x:Name="cmdGO" Content="GO!" HorizontalAlignment="Left" Margin="765,49,0,0" VerticalAlignment="Top" Width="134" Height="42" Click="cmdGO_Click"/>
+        <Label Content="RequestUrl" HorizontalAlignment="Left" Margin="70,57,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.367,-1.273" Height="24" Width="121"/>
+        <Label Content="REsponse" HorizontalAlignment="Left" Margin="70,115,0,0" VerticalAlignment="Top" Height="33" Width="121"/>
+
+    </Grid>
+</Window>
